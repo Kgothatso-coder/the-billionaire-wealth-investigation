@@ -2,11 +2,10 @@
 # 💰 The Billionaire Wealth Investigation
 ### SQL Data Analysis Project
 
-**Author:** Princess  
+**Author:** Kgothatso Makgalemane 
 **Programme:** FadaQa Tech Scholarship Program (FSP 2.0) – Data Analysis Track  
 **Project Category:** Data Analytics  
 **Database:** SQLite  
-**Submission Date:** November 2026
 
 ---
 
